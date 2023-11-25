@@ -8,8 +8,7 @@ environment:
 publish_to: none  
   
 dependencies:
-  bson: #^5.0.0
-    path: ../bson
+  bson: ^5.0.2
   meta: ^1.9.0
   fixnum: ^1.1.0
 
